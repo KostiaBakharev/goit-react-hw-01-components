@@ -1,0 +1,19 @@
+.statistics {
+  width: 440px;
+  padding: 40px 50px;
+  background-color: rgb(222, 215, 215);
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.title {}
+
+.statList {
+  color: rebeccapurple;
+}
+
+.item {}
+
+.label {}
+
+.percentage {}
