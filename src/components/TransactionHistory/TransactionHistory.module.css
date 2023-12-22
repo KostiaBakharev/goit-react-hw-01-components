@@ -1,0 +1,30 @@
+/* Додайте ці стилі у відповідне місце вашого CSS-файлу або скомпілюйте їх у CSS-модуль */
+
+.transactionHistory {
+  width: 800px;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 2px solid #ddd;
+  padding: 8px;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+td:nth-child(1) {
+  background-color: #c4d6e1;
+  font-weight: 700;
+
+}
+
+th {
+  background-color: #68b4e6;
+  font-weight: 700;
+}
+
+tr:hover {
+  background-color: #f5f5f5;
+}
